@@ -36,3 +36,9 @@ gradle
     
     }
 ```
+
+### yml file edit
+```
+    server: 
+        port: 9999
+```
